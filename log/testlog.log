@@ -1,0 +1,127 @@
+2023-04-30 21:51:43,469 - ebanking -INFO - URL is opened
+2023-04-30 21:51:43,598 - ebanking -INFO - entered username
+2023-04-30 21:51:43,680 - ebanking -INFO - entered password
+2023-04-30 21:51:44,342 - ebanking -INFO - login test passed
+2023-04-30 22:04:00,094 - ebanking -INFO - URL is opened
+2023-04-30 22:04:00,266 - ebanking -INFO - entered username
+2023-04-30 22:04:00,359 - ebanking -INFO - entered password
+2023-04-30 22:04:00,990 - ebanking -INFO - login test passed
+2023-04-30 22:23:02,167 - ebanking -INFO - URL is opened
+2023-04-30 22:23:02,339 - ebanking -INFO - entered username
+2023-04-30 22:23:02,422 - ebanking -INFO - entered password
+2023-04-30 22:23:03,179 - ebanking -INFO - login test passed
+2023-04-30 22:31:13,889 - ebanking -INFO - URL is opened
+2023-04-30 22:31:14,009 - ebanking -INFO - entered username
+2023-04-30 22:31:14,084 - ebanking -INFO - entered password
+2023-04-30 22:31:14,715 - ebanking -INFO - login test passed
+2023-04-30 22:38:30,396 - ebanking -INFO - URL is opened
+2023-04-30 22:38:30,515 - ebanking -INFO - entered username
+2023-04-30 22:38:30,605 - ebanking -INFO - entered password
+2023-04-30 22:38:31,318 - ebanking -INFO - login test passed
+2023-04-30 22:39:42,983 - ebanking -INFO - URL is opened
+2023-04-30 22:39:43,133 - ebanking -INFO - entered username
+2023-04-30 22:39:43,250 - ebanking -INFO - entered password
+2023-04-30 22:39:43,819 - ebanking -INFO - login test passed
+2023-04-30 22:52:56,506 - ebanking -INFO - URL is opened
+2023-04-30 22:52:56,643 - ebanking -INFO - entered username
+2023-04-30 22:52:56,726 - ebanking -INFO - entered password
+2023-04-30 22:52:57,365 - ebanking -INFO - login test passed
+2023-04-30 23:01:48,370 - ebanking -INFO - URL is opened
+2023-04-30 23:01:48,484 - ebanking -INFO - entered username
+2023-04-30 23:01:48,581 - ebanking -INFO - entered password
+2023-04-30 23:01:49,277 - ebanking -INFO - login test passed
+2023-04-30 23:06:26,861 - ebanking -INFO - URL is opened
+2023-04-30 23:06:26,991 - ebanking -INFO - entered username
+2023-04-30 23:06:27,130 - ebanking -INFO - entered password
+2023-04-30 23:06:27,687 - ebanking -INFO - login test passed
+2023-04-30 23:06:44,324 - ebanking -INFO - URL is opened
+2023-04-30 23:06:44,456 - ebanking -INFO - entered username
+2023-04-30 23:06:44,553 - ebanking -INFO - entered password
+2023-04-30 23:06:45,182 - ebanking -INFO - login test passed
+2023-04-30 23:07:43,296 - ebanking -INFO - URL is opened
+2023-04-30 23:07:43,484 - ebanking -INFO - entered username
+2023-04-30 23:07:43,561 - ebanking -INFO - entered password
+2023-04-30 23:07:44,254 - ebanking -INFO - login test passed
+2023-04-30 23:07:46,828 - ebanking -INFO - URL is opened
+2023-04-30 23:07:46,922 - ebanking -INFO - entered username
+2023-04-30 23:07:47,030 - ebanking -INFO - entered password
+2023-04-30 23:07:47,712 - ebanking -INFO - clicked submit
+2023-04-30 23:07:50,774 - ebanking -INFO - clicked on New Customer
+2023-04-30 23:07:50,775 - ebanking -INFO - providing customer details
+2023-04-30 23:07:57,022 - ebanking -INFO - entered customer name
+2023-04-30 23:07:57,106 - ebanking -INFO - entered gender
+2023-04-30 23:08:00,217 - ebanking -INFO - entered date of birth
+2023-04-30 23:08:03,303 - ebanking -INFO - entered address
+2023-04-30 23:08:03,369 - ebanking -INFO - entered city
+2023-04-30 23:08:03,418 - ebanking -INFO - entered state
+2023-04-30 23:08:03,484 - ebanking -INFO - entered pin
+2023-04-30 23:08:03,553 - ebanking -INFO - entered mobilenumber
+2023-04-30 23:08:03,641 - ebanking -INFO - entered email
+2023-04-30 23:08:03,695 - ebanking -INFO - entered password
+2023-04-30 23:08:07,462 - ebanking -INFO - clicked on submit button
+2023-04-30 23:08:10,487 - ebanking -INFO - validation started.......
+2023-04-30 23:08:10,503 - ebanking -INFO - Customer Registered Successfully!!!
+2023-05-01 08:55:54,521 - ebanking -INFO - URL is opened
+2023-05-01 08:55:54,744 - ebanking -INFO - entered username
+2023-05-01 08:55:54,846 - ebanking -INFO - entered password
+2023-05-01 08:55:59,015 - ebanking -INFO - login test passed
+2023-05-01 08:56:01,662 - ebanking -INFO - URL is opened
+2023-05-01 08:56:01,766 - ebanking -INFO - entered username
+2023-05-01 08:56:01,851 - ebanking -INFO - entered password
+2023-05-01 08:56:02,428 - ebanking -INFO - clicked submit
+2023-05-01 08:56:05,536 - ebanking -INFO - clicked on New Customer
+2023-05-01 08:56:05,536 - ebanking -INFO - providing customer details
+2023-05-01 08:56:09,852 - ebanking -INFO - entered customer name
+2023-05-01 08:56:10,029 - ebanking -INFO - entered gender
+2023-05-01 08:56:13,240 - ebanking -INFO - entered date of birth
+2023-05-01 08:56:16,371 - ebanking -INFO - entered address
+2023-05-01 08:56:16,449 - ebanking -INFO - entered city
+2023-05-01 08:56:16,516 - ebanking -INFO - entered state
+2023-05-01 08:56:16,597 - ebanking -INFO - entered pin
+2023-05-01 08:56:16,684 - ebanking -INFO - entered mobilenumber
+2023-05-01 08:56:16,798 - ebanking -INFO - entered email
+2023-05-01 08:56:16,866 - ebanking -INFO - entered password
+2023-05-01 08:56:18,271 - ebanking -INFO - clicked on submit button
+2023-05-01 08:56:21,293 - ebanking -INFO - validation started.......
+2023-05-01 08:56:21,293 - ebanking -INFO - Customer Registered Successfully!!!
+2023-05-01 09:12:43,805 - ebanking -INFO - URL is opened
+2023-05-01 09:12:44,007 - ebanking -INFO - entered username
+2023-05-01 09:12:44,125 - ebanking -INFO - entered password
+2023-05-01 09:12:44,774 - ebanking -INFO - login test passed
+2023-05-01 09:12:47,572 - ebanking -INFO - URL is opened
+2023-05-01 09:12:47,673 - ebanking -INFO - entered username
+2023-05-01 09:12:47,793 - ebanking -INFO - entered password
+2023-05-01 09:12:48,564 - ebanking -INFO - clicked submit
+2023-05-01 09:12:51,663 - ebanking -INFO - clicked on New Customer
+2023-05-01 09:12:51,663 - ebanking -INFO - providing customer details
+2023-05-01 09:12:53,548 - ebanking -INFO - entered customer name
+2023-05-01 09:12:53,627 - ebanking -INFO - entered gender
+2023-05-01 09:12:56,822 - ebanking -INFO - entered date of birth
+2023-05-01 09:12:59,948 - ebanking -INFO - entered address
+2023-05-01 09:13:00,032 - ebanking -INFO - entered city
+2023-05-01 09:13:00,107 - ebanking -INFO - entered state
+2023-05-01 09:13:00,209 - ebanking -INFO - entered pin
+2023-05-01 09:13:00,290 - ebanking -INFO - entered mobilenumber
+2023-05-01 09:13:00,387 - ebanking -INFO - entered email
+2023-05-01 09:13:00,456 - ebanking -INFO - entered password
+2023-05-01 09:13:01,672 - ebanking -INFO - clicked on submit button
+2023-05-01 09:13:04,706 - ebanking -INFO - validation started.......
+2023-05-01 09:13:04,706 - ebanking -INFO - Customer Registered Successfully!!!
+2023-05-01 10:32:32,778 - ebanking -INFO - URL is opened
+2023-05-01 10:32:32,919 - ebanking -INFO - entered username
+2023-05-01 10:32:33,025 - ebanking -INFO - entered password
+2023-05-01 10:32:33,784 - ebanking -INFO - login test passed
+2023-05-01 10:32:40,065 - ebanking -INFO - URL is opened
+2023-05-01 10:32:40,157 - ebanking -INFO - entered username
+2023-05-01 10:32:40,249 - ebanking -INFO - entered password
+2023-05-01 10:32:40,801 - ebanking -INFO - clicked submit
+2023-05-01 10:32:43,931 - ebanking -INFO - clicked on New Customer
+2023-05-01 10:32:43,932 - ebanking -INFO - providing customer details
+2023-05-01 10:34:52,085 - ebanking -INFO - URL is opened
+2023-05-01 10:34:52,250 - ebanking -INFO - entered username
+2023-05-01 10:34:52,360 - ebanking -INFO - entered password
+2023-05-01 10:34:53,122 - ebanking -INFO - login test passed
+2023-05-01 11:35:51,901 - ebanking -INFO - URL is opened
+2023-05-01 11:35:52,098 - ebanking -INFO - entered username
+2023-05-01 11:35:52,183 - ebanking -INFO - entered password
+2023-05-01 11:35:53,014 - ebanking -INFO - login test passed
